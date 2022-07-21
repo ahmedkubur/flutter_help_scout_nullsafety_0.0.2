@@ -33,6 +33,10 @@
 
 * Null safety
 
-## 0.0.2
+## 0.0.3
 
 * Fixed mainJavaClass issue
+
+## 0.0.4
+
+* Fixed ios
