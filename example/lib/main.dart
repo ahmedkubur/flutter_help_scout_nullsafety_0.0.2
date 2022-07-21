@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_help_scout_nullsafety/flutter_help_scout.dart';
+import 'package:flutter_help_scout_nullsafety/flutter_help_scout_nullsafety.dart';
 
 void main() async {
   runApp(MyApp());
