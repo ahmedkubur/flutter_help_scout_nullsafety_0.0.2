@@ -40,3 +40,7 @@
 ## 0.0.4
 
 * Fixed ios
+
+## 0.0.5
+
+* Fixed bug in ios
