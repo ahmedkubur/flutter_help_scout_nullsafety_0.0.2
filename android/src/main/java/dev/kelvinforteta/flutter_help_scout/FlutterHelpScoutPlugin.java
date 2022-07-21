@@ -1,4 +1,4 @@
-package dev.kelvinforteta.flutter_help_scout_nullsafety_0.0.2;
+package dev.kelvinforteta.flutter_help_scout_nullsafety;
 
 
 import android.app.Activity;
@@ -38,7 +38,7 @@ public class FlutterHelpScoutPlugin implements FlutterPlugin, MethodCallHandler,
   @Override
   public void onAttachedToEngine(@NonNull FlutterPluginBinding flutterPluginBinding) {
 
-    channel = new MethodChannel(flutterPluginBinding.getBinaryMessenger(), "kelvinforteta.dev/flutter_help_scout_nullsafety_0.0.2");
+    channel = new MethodChannel(flutterPluginBinding.getBinaryMessenger(), "kelvinforteta.dev/flutter_help_scout_nullsafety");
     channel.setMethodCallHandler(this);
 
   }

@@ -6,7 +6,7 @@ import Beacon
 
 public class SwiftFlutterHelpScoutPlugin: NSObject, FlutterPlugin {
   public static func register(with registrar: FlutterPluginRegistrar) {
-    let channel = FlutterMethodChannel(name: "kelvinforteta.dev/flutter_help_scout_nullsafety_0.0.2", binaryMessenger: registrar.messenger())
+    let channel = FlutterMethodChannel(name: "kelvinforteta.dev/flutter_help_scout_nullsafety", binaryMessenger: registrar.messenger())
     let instance = SwiftFlutterHelpScoutPlugin()
     registrar.addMethodCallDelegate(instance, channel: channel)
   }

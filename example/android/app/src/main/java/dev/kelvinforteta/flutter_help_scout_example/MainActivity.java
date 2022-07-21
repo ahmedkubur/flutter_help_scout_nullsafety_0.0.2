@@ -1,4 +1,4 @@
-package dev.kelvinforteta.flutter_help_scout_nullsafety_0.0.2_example;
+package dev.kelvinforteta.flutter_help_scout_nullsafety_example;
 
 import io.flutter.embedding.android.FlutterActivity;
 

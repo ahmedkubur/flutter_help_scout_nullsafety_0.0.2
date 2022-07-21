@@ -28,3 +28,7 @@
 * Formatted code
 
 * Updated readme file
+
+## 0.0.2
+
+* Null safety

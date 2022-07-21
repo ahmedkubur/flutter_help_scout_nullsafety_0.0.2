@@ -1,9 +1,9 @@
 #
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html.
-# Run `pod lib lint flutter_help_scout_nullsafety_0.0.2.podspec' to validate before publishing.
+# Run `pod lib lint flutter_help_scout_nullsafety.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'flutter_help_scout_nullsafety_0.0.2'
+  s.name             = 'flutter_help_scout_nullsafety'
   s.version          = '0.0.1'
   s.summary          = 'Flutter implementation for Help Scout mobile SDK.'
   s.description      = <<-DESC

@@ -1,4 +1,4 @@
-package dev.kelvinforteta.flutter_help_scout_nullsafety_0.0.2;
+package dev.kelvinforteta.flutter_help_scout_nullsafety;
 
 import android.content.Context;
 

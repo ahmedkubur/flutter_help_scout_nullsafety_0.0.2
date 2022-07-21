@@ -6,7 +6,7 @@ Flutter implementation for Help Scout mobile SDK. Help Scout is an all-in-one cu
 This plugin implements Help Scout official native SDK [Learn more](https://developer.helpscout.com/beacon-2/)
 
 ### Demo
-![flutter_help_scout_nullsafety_0.0.2_demo](https://user-images.githubusercontent.com/53996412/103737367-63348b80-4ff2-11eb-835c-fddbba85b20c.gif)
+![flutter_help_scout_nullsafety_demo](https://user-images.githubusercontent.com/53996412/103737367-63348b80-4ff2-11eb-835c-fddbba85b20c.gif)
 
 ### Usage
 Setup beacon with your Beacon ID, user's email address and name (optional)
@@ -87,4 +87,4 @@ To access the documents picker in the attachment menu, you’ll need the entitle
 
 ![iCloud container](https://github.com/helpscout/HSAttachmentPicker/raw/master/picker_icloud_permissions.png)
 
-# flutter_help_scout_nullsafety_0.0.2
+# flutter_help_scout_nullsafety

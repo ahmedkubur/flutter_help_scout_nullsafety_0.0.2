@@ -1,4 +1,4 @@
-name: flutter_help_scout_nullsafety_0.0.2
+name: flutter_help_scout_nullsafety
 description: Flutter implementation for Help Scout mobile SDK. Help Scout is an all-in-one customer service platform that helps you balance everything your customers need to be happy.
 version: 0.0.2
 #authors: 
@@ -30,7 +30,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: dev.kelvinforteta.flutter_help_scout_nullsafety_0.0.2
+        package: dev.kelvinforteta.flutter_help_scout_nullsafety
         pluginClass: FlutterHelpScoutPlugin
       ios:
         pluginClass: FlutterHelpScoutPlugin

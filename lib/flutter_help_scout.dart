@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 
 class FlutterHelpScout {
   static const MethodChannel _channel =
-      const MethodChannel('kelvinforteta.dev/flutter_help_scout_nullsafety_0.0.2');
+      const MethodChannel('kelvinforteta.dev/flutter_help_scout_nullsafety');
 
   /// This is your beacon ID
   final String beaconId;

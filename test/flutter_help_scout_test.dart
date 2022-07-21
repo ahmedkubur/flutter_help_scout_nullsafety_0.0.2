@@ -2,7 +2,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
-  const MethodChannel channel = MethodChannel('flutter_help_scout_nullsafety_0.0.2');
+  const MethodChannel channel = MethodChannel('flutter_help_scout_nullsafety');
 
   TestWidgetsFlutterBinding.ensureInitialized();
 

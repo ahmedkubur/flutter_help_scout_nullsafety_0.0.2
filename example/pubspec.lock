@@ -62,13 +62,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_help_scout_nullsafety_0.0.2:
+  flutter_help_scout_nullsafety:
     dependency: "direct main"
     description:
       path: ".."
       relative: true
     source: path
-    version: "0.0.1+8"
+    version: "0.0.2"
   flutter_test:
     dependency: "direct dev"
     description: flutter

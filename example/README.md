@@ -1,6 +1,6 @@
-# flutter_help_scout_nullsafety_0.0.2_example
+# flutter_help_scout_nullsafety_example
 
-Demonstrates how to use the flutter_help_scout_nullsafety_0.0.2 plugin.
+Demonstrates how to use the flutter_help_scout_nullsafety plugin.
 
 ## Getting Started
 
